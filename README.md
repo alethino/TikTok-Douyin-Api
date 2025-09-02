@@ -1,6 +1,6 @@
 # X-Ladon, X-Gorgon, X-Argus video without watermark bot, account create, gorgon algorithm
 
-## Telegram @Neo_Galaxy - https://t.me/Neo_Galaxy
+## Telegram @alethino - https://t.me/alethino
 
 
 # TikTok-Douyin-Api
